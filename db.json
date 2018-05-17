@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Bucky",
+      "phone": "333-444-555",
+      "email": "bucky@mail.com",
+      "id": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "descriptin": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "descriptin": "Microsoft is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "descriptin": "Google is good!"
+    }
+  ]
+}
